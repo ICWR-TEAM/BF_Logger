@@ -12,7 +12,7 @@ return [
     ],
   ],
   "data" => [
-    "key_username" => "user"
+    "key_username" => "user" //berikan sesuai input name username anda
   ],
   'WINDOW_MINUTES' => 10000, // Atur untuk menyesuaikan log pencatatan terakhir(menit)
   "BLOCK_USER" => true, //true jika menginginkan fitur block user false jika tidak menginginkannya
