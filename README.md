@@ -6,12 +6,18 @@ Sebuah sistem pencatat percobaan login (login attempt logger) berbasis PHP + MyS
 
 ### 🚀 Fitur Utama
 
-✅ Mencatat setiap percobaan login ke database
+✅ Mencatat setiap percobaan login ke database 
+<br>
 ✅ Menampilkan riwayat login dengan tampilan DataTables (interaktif & pencarian cepat)
+<br>
 ✅ Menampilkan statistik login (total, sukses, gagal, top IP, top username)
+<br>
 ✅ Dapat mengaktifkan fitur pemblokiran otomatis berdasarkan percobaan gagal berulang
+<br>
 ✅ Mudah diintegrasikan ke sistem login apapun
+<br>
 ✅ Menggunakan PDO (secure & prepared statement)
+<br>
 
 ---
 
