@@ -82,7 +82,9 @@ CREATE TABLE IF NOT EXISTS login_attempts (
 
 - Buka stats.php → untuk melihat statistik login
 
-5. Penyesuaian Fungsi 
+---
+
+### ⚙️ Penyesuaian Fungsi 
 
 _a. Penyimpanan Log_
 
