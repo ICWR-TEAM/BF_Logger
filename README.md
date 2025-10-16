@@ -153,7 +153,7 @@ Semua konfigurasi diatur di ./config.php:
 
 | Parameter          | Default | Deskripsi                                            |
 | ------------------ | ------- | ---------------------------------------------------- |
-| `key_username`   | `10000` | Berikan sesuai input name username anda (```<input type="text" name="*USERNAME*">```) <br><br> *<b>*ITU YANG DISESUAIKAN</b>*|
+| `key_username`   | `user` | Berikan sesuai input name username anda (```<input type="text" name="*USERNAME*">```) <br><br> *<b>*ITU YANG DISESUAIKAN</b>*|
 | `BLOCK_USER`       | `false` | Aktifkan blokir otomatis IP pengguna                 |
 | `MAX_FAILED_INPUT` | `5`     | Jumlah gagal sebelum diblokir                        |
 | `BLOCK_DURATION`   | `30`    | Lama blokir dalam detik                              |
